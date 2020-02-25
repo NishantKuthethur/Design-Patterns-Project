@@ -1,0 +1,11 @@
+C:\Users\Nishant\source\repos\kimursh\kimursh\obj\Debug\netcoreapp3.1\kimursh.csprojAssemblyReference.cache
+C:\Users\Nishant\source\repos\kimursh\kimursh\obj\Debug\netcoreapp3.1\kimursh.AssemblyInfoInputs.cache
+C:\Users\Nishant\source\repos\kimursh\kimursh\obj\Debug\netcoreapp3.1\kimursh.AssemblyInfo.cs
+C:\Users\Nishant\source\repos\kimursh\kimursh\bin\Debug\netcoreapp3.1\kimursh.exe
+C:\Users\Nishant\source\repos\kimursh\kimursh\bin\Debug\netcoreapp3.1\kimursh.deps.json
+C:\Users\Nishant\source\repos\kimursh\kimursh\bin\Debug\netcoreapp3.1\kimursh.runtimeconfig.json
+C:\Users\Nishant\source\repos\kimursh\kimursh\bin\Debug\netcoreapp3.1\kimursh.runtimeconfig.dev.json
+C:\Users\Nishant\source\repos\kimursh\kimursh\bin\Debug\netcoreapp3.1\kimursh.dll
+C:\Users\Nishant\source\repos\kimursh\kimursh\bin\Debug\netcoreapp3.1\kimursh.pdb
+C:\Users\Nishant\source\repos\kimursh\kimursh\obj\Debug\netcoreapp3.1\kimursh.dll
+C:\Users\Nishant\source\repos\kimursh\kimursh\obj\Debug\netcoreapp3.1\kimursh.pdb
